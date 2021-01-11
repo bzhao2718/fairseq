@@ -135,5 +135,7 @@ experimental/*
 # Weights and Biases logs
 wandb/
 
+*/gitignored/
+*/gitignored/*
 gitignored/
 gitignored/*
